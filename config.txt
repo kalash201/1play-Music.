@@ -1,0 +1,6 @@
+token=NDk5NzMzODcwNzgyOTcxOTE1.DqAk-A.B50Aa5iPUzUVtaIpDxVDnX8-TRE
+owner=464046823162511400
+prefix=1
+game=Tybe 1help
+stayinchannel=true
+songinstatus=false
